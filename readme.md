@@ -2,6 +2,11 @@
 
 从现在开始记录自己读的一些东西，要不然总是没有整理的习惯，即便读了很多，还是忘却的更多。
 
+## 视频
+
+### Deep Learning
+
+- [Deep Learning With PyTorch - Full Course](https://www.youtube.com/watch?v=c36lUUr864M&t=15441s&ab_channel=PythonEngineer) || [记录](Notes/videos/Deep-Learning-With-PyTorch-Full-Course.md) || 非常好的教程
 
 ## 文献
 
