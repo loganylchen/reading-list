@@ -1,0 +1,27 @@
+Video:
+  Deep Learning:
+    id1: 1
+    title: "Deep Learning With PyTorch - Full Course"
+    url: "https://www.youtube.com/watch?v=c36lUUr864M&t=15441s&ab_channel=PythonEngineer"
+    stars: 5
+    tags: [deep learning, pytorch, python]
+    notes: "Notes/videos/Deep-Learning-With-PyTorch-Full-Course.md"
+    date: 06-09-2022
+
+Paper:
+  Nanopore DRS:
+    - id: 1
+      title: "Nguyen, T. A. et al. Direct identification of A-to-I editing sites with nanopore native RNA sequencing. Nat Methods 19, 833–844 (2022)."
+      url: "https://www.nature.com/articles/s41592-022-01513-3"
+      stars: 5
+      tags: [nanopore, RNA, DRS]
+      notes: "Notes/papers/Nanopore-DRS.md"
+      date: 02-09-2022
+    - id: 2
+      title: "Ding, H., Bailey, A. D., Jain, M., Olsen, H. & Paten, B. Gaussian mixture model-based unsupervised nucleotide modification number detection using nanopore-sequencing readouts. Bioinformatics 36, 4928–4934 (2020)."
+      url: "https://academic.oup.com/bioinformatics/article/36/19/4928/5864718"
+      stars: 2
+      tags: [nanopore, RNA]
+      notes: "Notes/Literatures/10.1093/bioinformatics/btaa601.md"
+      date: 04-09-2022
+

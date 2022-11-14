@@ -1,0 +1,1 @@
+The reason why I want to create this repository is that I need to record something that I have read but easily forget. I hope I could learn something not matter from reading a book or a paper or just watching a video from youtube or bilibili. I haven't decided how to maintain this repository but have decided to start first. 
